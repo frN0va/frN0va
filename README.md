@@ -1,4 +1,4 @@
 Hello! My name is Owen Perry, I'm 19 years old, and I'm an aspiring Game/Web Developer! I'm currently a student at James Madison University pursuing a degree in Computer Science (BS). I've been programming since 2018, mostly in Python, Java, and JavaScript, but I can pick up new languages fairly quick. Alongside that, I've been an avid musician for 13 years, serving as a percussionist in both concert, jazz, and marching settings. Alongside music performance, I truly love to compose! I'm also an avid fan of football, specifically the James Madison Dukes & Minnesota Vikings!
 
 ![Owen's GitHub stats](https://github-readme-stats.vercel.app/api?username=frN0va&theme=aura&show_icons=true) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frN0va&size_weight=0.5&count_weight=0.5&layout=compact&theme=aura&show_icons=true)
+![Top Langs](https://github-readme-stats-phi-swart-79.vercel.app/api/top-langs/?username=frN0va&langs_count=8&layout=compact&theme=aura)

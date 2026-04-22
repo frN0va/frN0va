@@ -7,7 +7,7 @@ I'm 20 years old, and I'm an aspiring Game/Web Developer! I'm currently a studen
 ## 📊 GitHub Stats
 
 ![Owen's GitHub stats](https://github-readme-stats.vercel.app/api?username=frN0va&show_icons=true&theme=aura)
-![Top Langs](https://github-readme-stats-phi-swart-79.vercel.app/api/top-langs/?username=frN0va&langs_count=8&layout=compact&theme=aura)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frN0va&layout=compact&theme=aura&card_width=500&langs_count=8)
 
 ---
 
